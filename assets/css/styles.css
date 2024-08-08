@@ -1,0 +1,11 @@
+.banner {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0) 100%), url(../images/banner.png);
+    width: 1440px;
+    height: 605px;
+    gap: 0px;
+    opacity: 10px;
+}
+
+.logo {
+    background-image: none;
+}
